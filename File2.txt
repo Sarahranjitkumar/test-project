@@ -1,2 +1,0 @@
-This is file1 , I want to push/upload to GitHub
-this file 2
